@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/577692640789324146/f42ff316fa9b42c2b94732a5b3cd6dc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '577692640789324146'
+lifecycle_stage: active
+run_id: f42ff316fa9b42c2b94732a5b3cd6dc0
+run_name: worried-fly-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764526516326
+status: 1
+tags: []
+user_id: window

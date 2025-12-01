@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/577692640789324146/c6d2b94def844874a3397252c4dd278e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '577692640789324146'
+lifecycle_stage: active
+run_id: c6d2b94def844874a3397252c4dd278e
+run_name: useful-wasp-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764504513052
+status: 1
+tags: []
+user_id: window

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf04ed442a0b486eb78c0d2150423be5/artifacts
+end_time: 1764501662389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf04ed442a0b486eb78c0d2150423be5
+run_name: luxuriant-gull-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764501662199
+status: 3
+tags: []
+user_id: window

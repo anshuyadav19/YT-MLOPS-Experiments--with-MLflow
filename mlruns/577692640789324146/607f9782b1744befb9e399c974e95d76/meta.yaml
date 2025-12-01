@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/577692640789324146/607f9782b1744befb9e399c974e95d76/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '577692640789324146'
+lifecycle_stage: active
+run_id: 607f9782b1744befb9e399c974e95d76
+run_name: upbeat-hare-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764526465944
+status: 1
+tags: []
+user_id: window

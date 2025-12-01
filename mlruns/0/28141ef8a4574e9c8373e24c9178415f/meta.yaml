@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28141ef8a4574e9c8373e24c9178415f/artifacts
+end_time: 1764501908749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28141ef8a4574e9c8373e24c9178415f
+run_name: marvelous-snipe-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764501908563
+status: 3
+tags: []
+user_id: window
